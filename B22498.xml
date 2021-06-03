@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands cordiall physick, to cure all her diseases, recover her lawes, peace, freedomes, and avoid all assesments, within the space of two moneths.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22498</idno><idno type="EEBO-CITATION">99888397</idno>
+  <idno type="VID">201712</idno>
+  <idno type="EEBO-PROQUEST">2248545342</idno>
+  
+            <idno type="STC">Wing E2954A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[143]</idno>
+            <idno type="STC">ESTC R229582</idno>
+            <idno type="PROQUEST">ocm99888397</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888397e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201712)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[143])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands cordiall physick, to cure all her diseases, recover her lawes, peace, freedomes, and avoid all assesments, within the space of two moneths.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Printed in two columns.</note>
+                  <note>Includes: A letter out of Cumberland to a friend in London; A letter out of Lincolnshire to a friend in London.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Cumberland (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201712:1"/>
+            <head>Englands Cordiall Physick.</head>
+            <head type="sub">To cure all her Diseases, recover her Lawes, Peace, Freedomes, and avoid all Assesments, within the space of two Moneths.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He great miserie of Warre raging in the Land (next unto fast<g ref="char:EOLhyphen"/>ing and prayer) martiall Policie is in season; which being ignorantly or willfully neglected by too many in authority, many extraordinary mischiefes have formerly come to the State, through the want of good orders, whereby they might timely have been prevented.</p>
+            <p>And because protraction or delay (the old Soldiers harvest, or the Kings game plai'd at <hi>Westminster)</hi> must needs be distructive to this languishing Kingdome.</p>
+            <p>Therefore, these following remedies may be very seasonable unto all the people of <hi>England,</hi> to stirre up their affections, to the prosecution of the good Ordinances of Parliament, prepared for their preservation; the neglect whereof makes them seeme dead letters, and faire promising delusions.</p>
+            <p n="1">1. The Ordinance for Auxiliaries may without delay be put in execution, throughout all Counties under the Parliaments command, the well-affected Gentlemen, may repare to their severall Counties, to encourage the people and assist them in the worke.</p>
+            <p>Which done, those Forces joyning with the adjacent Garisons, being un<g ref="char:EOLhyphen"/>der the command of Populare, Intelligent, Valiant, Faithfull, and Active men, may without any impediment besiege all the Kings Garrisons, and forthwith settle the Kingdome into a peaceable condition.</p>
+            <p>The neglect whereof hath occasioned horrid Incursions, Plunders, and suddaine Recrutes as have been lately in the Associations, and will offer op<g ref="char:EOLhyphen"/>portunitie of the like, unlesse this expeditious and substantiall course speedily prevent them.</p>
+            <p n="2">2. To prevent an impertinent Objection, which Malignitie or will<g ref="char:EOLhyphen"/>full ignorance in Martiall Affaires make, money (which is the meanes of Warre) cannot be wanting; because Plunders and exacted contributions ceasing every where, the Counties will be inabled to pay ordinarie assesments. which will countervaile all Charges that can belong to the Sieges.</p>
+            <p n="3">3. In the meane time, to prevent all incursions into the Associations, and to obstruct the Kings marches in all parts of the Kingdome, all Bridges over great Rivers in the Parliaments quarters, which are in the road of mischiefe, may within six dayes and nights, either be broken downe or blocked up with small teneble Forts, together with Disfoording all Foords betwixt them.</p>
+            <p n="4">4. To encourage all well-affected people in their fidelitie; the High Court of Parliament may give a speciall order that all Committees, who are or have been intrusted with the Treasures of the Kingdome, may forthwith give a just account without Partialitie or Demurie. And that the Counties themselves (as by right they ought) may have power to nominate those of whose faithfull Integritie they have sufficient experience.</p>
+            <p>This Act would vindicate just mens aspersed honour, and in all reason bring in considerable summes to pay Souldiers withall, who equally with the people are much discontented.</p>
+            <p n="5">5. A Declaration may be sent from the Parliament unto all the Kings Gar<g ref="char:EOLhyphen"/>risons, forthwith to surrender them unto the Parliament, or else to give them no quarter; specifying the impossibility of the Kings relieving them; and the great mischiefes, they standing out, will doe the whole Kingdome; besides their owne ruine if they will not yeeld upon Honourable tearmes.</p>
+            <p>It such a Proposition be refused in this time of so great mercie to the State, and terrour to the Enemie, two or three of the Kings weakest Garrisons may be first seized upon and made exemplary: Which course being timely and wisely taken, would be an affectuall meanes to perswade all the rest will<g ref="char:EOLhyphen"/>ingly to submit, &amp; so prevent much effusion of blood, &amp; destruction of estate.</p>
+            <p n="6">6. By very credible and probable Intelligence, it is certified that the King intends <hi>Newarke</hi> for his Winter quarter, which Garrison hath been a con<g ref="char:EOLhyphen"/>stant desperate mischiefe to the State.</p>
+            <p>The King hath had severall great retreats from thence▪ and cannot make a suddaine incursion into the Association but from <hi>Newarke.</hi>
+            </p>
+            <p>It is the Center of six Counties, and a daily mischiefe to them all; many Armies hath been destroyed▪ and Garrisons taken by it, yet there hath been such neglect of the Kingdomes good in this as in many others) that the <hi>Scots</hi> whole Armie lay still the last Winter foure moneths, and had no Commission from the Parliament to blocke up this Garrison nor starve it.</p>
+            <p>Which since assisted Sir <hi>Marmaduke Langdal</hi> in defeating the <hi>Yorkeshire</hi> Army before <hi>Pontfrect,</hi> which no other way could have been done, <hi>Welbeck</hi> and <hi>Torsec</hi> two strong and convenient Garrisons have been taken by them from the Parliament, the Kings late recrute there, and the spacious County of <hi>Lincolne</hi> subjected to their tyrannie.</p>
+            <p>From <hi>Newarke</hi> the King may meet <hi>Montrosse</hi> at any time in the Malig<g ref="char:EOLhyphen"/>nant North, and raise a greater Armie then ever he had.</p>
+            <p>What need there is of unanimous joyning, both of hearts and hands to end these bloodie and unnaturall Warres, now in this bright Sun-shine day, before the night (or darkenesse) of some desperate storme, which the blacke clouds of our manifold abominations (chiefly in absolving the wicked and condemning the just) doe presage, I appeale to the judgement of the wel-affected and im<g ref="char:EOLhyphen"/>partiall Reader.</p>
+            <p>If we continue in our guiltines, put the ill day farre of, neglect faire oppor<g ref="char:EOLhyphen"/>tunities, yea, and shew no better signes of unfained repentance, then yet we have done (for all our Fast dayes, <hi>Isaiah</hi> 58.) we may expect that our adverse party in <hi>Scotland</hi> and <hi>Ireland,</hi> will joyne both with forraigne Nations and Ene<g ref="char:EOLhyphen"/>mies among our selves, either for our suddaine and utter ruine, or at least so to protract the Warres, that both the lives and estates of all poore oppressed and discontented people, may be wasted daily more and more, untill the Nation be quit depopulated &amp; impoverished, &amp; so be a derision &amp; proverb toother nations.</p>
+            <p>These things being well pondered and considered, is it not high time for wise men to have their eyes in their heads, awake, and bestirre themselves out of this dead sleep of careles security, by useing all these &amp; the like active moti<g ref="char:EOLhyphen"/>ons, w<seg rend="sup">ch</seg> may (through Gods grace) tend to his glory and the Kingdoms peace?</p>
+            <p n="7">7. All Gentlemen and others in what precinct or place so ever, that have made any probable gaine of the States service, and will not sympathize the States urgent necessitie, for the whole Kingdomes and their owne safety, in this so great an extremitie, may be compelled to advance so much moneys upon good securitie as they are able, and the rather, since they have enjoyed peace and safety at home, whiles many have lost their lives, others want their pay▪ and multitudes are maimed, sick, hurt, and decrepped abroad.</p>
+            <p n="8">8. To refine and purge all Committees, both by lessening of their numbers and changing of their members, whereof some through coveteousnesse and corruption, doe make great distractions and divisions, to the great distemper of the whole Kingdome, foure honest active and intelligent wel-bred gentle<g ref="char:EOLhyphen"/>men, may well dispatch more busines in one day (and for the halfe of the al<g ref="char:EOLhyphen"/>lowance now in the Kingdomes calamitie) then a whole bench full of undis<g ref="char:EOLhyphen"/>creet and rude fellowes (who seeke their owne, and not the Kingdomes good) doe usually in a weeke.</p>
+            <p>If it would please the Parliament to take these things and others hereafter specified, into their serious consideration, and withall▪ to put them speedily in agitation, doubtlesse God thereby would have glory, and they discharge sin<g ref="char:EOLhyphen"/>gular duty to the Nation, according to the trust reposed in them.</p>
+            <p n="9">9. If any good successe herein may be expected, let the businesse be begun with speed, the Souldiers and Workers every weeke precisely payed, and such Commanders as are not faithfull and carefull in their Offices, changed.</p>
+            <div type="letter">
+               <head>
+                  <note place="margin" type="runSum">A Letter</note> A Letter out of <hi>Cumberland</hi> to a Friend in <hi>London</hi>
+               </head>
+               <p>THe wel-affected people with us doe begin to suspect, that they shall upon any occasion be betrayed into the Enemies hands, by these unjust and Malignant Committee men in <hi>Cum<g ref="char:EOLhyphen"/>berland</hi> and <hi>Westmoreland,</hi> because they are so link't together, that they manifest all possible effects of favour one to another.</p>
+               <p>We sent Articles to the Parliament for discovering and preventing their unjust dealings, but wee feare that some of their Confederates there, (making use of these unnaturall distractions) have turned Iustice into Wormwood, and corrupted the Fountaine; for by wofull experience, we find, it sendeth forth bitter waters (like <hi>Marah)</hi> all over the Kingdome.</p>
+               <p>Wee heare that the <hi>Scots</hi> Horse are comming amongst us, who take such short marches, as though they intended to make England the seate of Warre. I beseech you perswade your zealous friends to solicite some Members of the House, that our Malignant Committees may be called to a speedy account, and that foure discreet Gentlemen of good report may be chosen in their places; who are able to doe more good to the Common Wealth, then twelve, Time<g ref="char:EOLhyphen"/>serving and Selfe seeking Malignants, who abuse the Well-affected, protect the Enemie, and im<g ref="char:EOLhyphen"/>bezzell the Countreys treasure</p>
+               <p>It were very requisite (in my opinion) that all the Committees throughout the Kingdome were both reformed, and the number of their Members lessned; and none accepted, but those who are able and willing to give the State one yeares service Gratis, as also to render accounts of their proceedings and receipts every moneth.</p>
+               <p>The Malignants doe yet expect <hi>Montrosse</hi> with an Armie of Rebells out of <hi>Scotland,</hi> and wee feare that if the <hi>Scots</hi> foot retreat to relieve us, they will inrage the Malignants against them, by plundering. The King is resolved (we hear) to follow them in there are, if he be not prevented by a sufficient Armie of Horse.</p>
+               <p>In all likely hood the Kings great designe is now to destroy the <hi>Scots</hi> Armie first, and raise the Malignants who have made many woefull Insurrections. All the benefit you in the <hi>South</hi> are like to enjoy, is to be [last] destroyed.</p>
+               <p>I pray God we may all take these sad considerations to heart, and use some speedie and resolute course to prevent them, which doe perplex the thoughts of your assured friend.</p>
+            </div>
+            <div type="letter">
+               <head>A Letter out of <hi>Lincolnshire</hi> to a Friend in <hi>London.</hi>
+               </head>
+               <p>SIr, Since Collonell <hi>Roscite</hi> marched away after the King, wee have been truely sensible of the want of Auxiliaries to serve the County in his absence. The <hi>Newarkers</hi> have plunder<g ref="char:EOLhyphen"/>red and assessed most parts about them; taken away three or foure of the best men out of many townes, as Prisoners, untill they pay great sumes charged upon them: A little town scarce<g ref="char:EOLhyphen"/>ly worth 200 l. a yeare was charged with 40. l to be payed within 5 dayes, upon paine of plundering, fyring, and perpetuall imprisoning, by a warrant from this mercilesse Garrison of <hi>Newarke</hi> and ten Commissioners. Such menaces doe presage fire and sword to us speedily, un<g ref="char:EOLhyphen"/>lesse God in his infinite mercy stur up the worthy City of London (who have constant provision from thence) to contribute some assistance in procuring 2000 Foot &amp; 1000. Horse out of the associations, &amp; a speciall order for raising the Auxiliaries in <hi>Lincolnshire</hi> with Coll. <hi>Keins<g ref="char:EOLhyphen"/>borrough</hi> (a man famous in our County both for policie, valour, and fidelitie) to command in cheife for the blocking up of <hi>Newarke,</hi> and that both to prevent the Kings great retreats there, and preserve the County from weekely plunders and intollerable taxations: Which being▪ one with strong Trenches and Forts (as it may be within ten dayes &amp; nights) doubtles the Country a<g ref="char:EOLhyphen"/>bout it (to avoid further oppression) would give more contribution, then wil pay both al the Forces to be imployed, and all the charges to be bestowed in the businesse▪ Therefore Sir if it would please you in the bowels of compassion, to relate our miserable condition at the Royall Exchange I am perswaded the <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est sort of men would endeavour our speedy releife, and therein you will shew your zeale to the publique, and your kind respect unto your affectioned friend.</p>
+            </div>
+            <epigraph>
+               <q>Physick without Application, soone turneth to putrifaction.</q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Authority.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
